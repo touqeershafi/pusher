@@ -4,7 +4,10 @@ Push notification sending utility for android & ios
 
 ## Getting Started
 
-Clone & go to `index.php`
+`git clone https://github.com/touqeershafi/pusher.git`
+`cd pusher && composer install`
+
+then go to `index.php`
 
 ### Prerequisites
 
